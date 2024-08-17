@@ -9,4 +9,4 @@ with st.expander('Accordian'):
 
 with st.sidebar:
   st.radio('Select your Gander : ',['Male','Female','other'])
-  
+  st.slider('Select your Age : ',1,100)
