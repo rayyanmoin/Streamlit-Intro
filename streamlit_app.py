@@ -4,4 +4,7 @@ st.title('InterPrep Artificial intelligence')
 
 st.info('Your Interview Prepration oF Your Future Job')
 
+with st.expander('Accordian'):
+  st.write('This is the text inside the Accordian')
+
 
