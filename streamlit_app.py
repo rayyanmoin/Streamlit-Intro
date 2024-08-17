@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('🎈 App Name')
+st.title('InterPrep Artificial intelligence')
 
-st.write('Hello world!')
+st.write('Your Interview Prepration oF Your Future Job')
